@@ -6,7 +6,7 @@ A minimal Vue 3 + Vite starter template to help you launch your next project in 
 
 - Modern Vue stack – Includes Vue 3 Single-File Components (SFCs).
 
-- Super easy to extend – Drop in libraries like Vue Router, Pinia, Tailwind, and more—no preset opinions.
+- Super easy to extend – Drop in libraries like Pinia, Tailwind, and more—no preset opinions.
 
 ## 🛠️ Getting Started
 1. Clone the repo<br>
